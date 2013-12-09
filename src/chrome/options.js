@@ -59,7 +59,13 @@ var txt="";
 // Updates the example text
 function change_text() {
 	txt = document.getElementById("example").value;
+	
+	// Some preprocessing
+	txt = txt.replace(/</gi, "&lt;");
+	txt = txt.replace(/>/gi, "&gt;");
+	txt = txt.replace(/\$/gi, "&#36;");
 	txt = txt.replace(/\n/g, "<br>\n");
+	
 	window.vals = getValues();
 	document.getElementById("test_div").innerHTML = replace(txt, window.vals[names[0]], window.vals[names[1]]);
 }

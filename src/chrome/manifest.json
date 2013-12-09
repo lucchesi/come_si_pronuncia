@@ -3,7 +3,7 @@
 
   "name": "Come si pronuncia?",
   "description": "Ma dov'è l'accento? La 'e' è chiusa o aperta? Sì, ora c'è una estensione anche per questo.",
-  "version": "0.1",
+  "version": "0.3",
   "background": { "scripts": ["background.js"] },
   "options_page": "options.html",
   "icons": {"128": "icon_128.png"},
