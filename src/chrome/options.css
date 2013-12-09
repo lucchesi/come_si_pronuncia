@@ -1,0 +1,69 @@
+﻿#bla #ble {
+	position: relative;
+	float: left;
+}
+
+body {
+	background-color: #DCFEFF;
+}
+
+#pagina {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	position: relative;
+	background-color: #AADDFF;
+}
+
+#bla {
+	background-color: #AADDFF;
+	height: auto;
+}
+
+#header {
+	width: 780px;
+	position: relative;
+	float: left;
+	background-color: #142C9A;
+	padding: 10px;
+	text-align: center;
+	color: #FFFFFF;
+}
+#header img {
+	float: left;
+	width: 64px;
+	height: 64px;
+	padding-left: 30px;
+}
+
+#left {
+	width: 130px;
+	position: relative;
+	float: left;
+	background-color: #99CCFF;
+	padding: 10px;
+	height: auto;
+}
+
+#right {
+	width: 630px;
+	position: relative;
+	float: left;
+	background-color: #AADDFF;
+	padding: 10px;
+	height: auto;
+}
+
+#d_example textarea {
+	width: 610px;
+	padding-left: auto;
+	padding-right: auto;
+	float: center;
+	margin: 10px;
+}
+
+#d_example {
+	margin-left: auto;
+	margin-right: auto;
+}

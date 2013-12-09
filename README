@@ -1,0 +1,16 @@
+This is the source code of the "Come si pronuncia?" extension for Google Chrome/Chromium.
+
+Link: https://chrome.google.com/webstore/detail/come-si-pronuncia/iifnmgagdhakheapgajijlmdaiddachf
+
+What it does is mark the stressed syllable and/or the 'e' and 'o' vowels if they are 'open', in order to show the correct pronunciation of Italian words, when it's not entirely clear only from the spelling.
+(ex: there's no way to know it is "SCEgliere", but "veDEre")
+
+The user can choose different representations for the two functions.
+
+It is true that the chiusura is not uniform throughout Italy, but at least this one is used by native speakers *somewhere*.
+
+The linguistic data was obtained from the Italian Festival Modules.
+(Copyright (C) 2001-2005 by the IFM Development Team)(GPL License)
+(their "readme" is in the src folder)
+
+It was actually meant for a text-to-speech system. Well, we're using it to make a human-based one =)

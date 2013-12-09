@@ -1,0 +1,6 @@
+I'm not including the lex.out file here because it is just too big (32,3 MB).
+
+You can download it directly from the Italian FESTIVAL website:
+http://www.pd.istc.cnr.it/festival/ifd/festlex_IFD.tar.gz
+
+I am including the lex_small.out file that was used for debugging, though.
